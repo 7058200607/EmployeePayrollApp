@@ -1,0 +1,329 @@
+.page {
+    border: 1px solid white;
+    width: 100%;
+    height: 620px;
+    background-color: #F7F7F7;
+}
+
+.header {
+    height: 106px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.innerheader {
+    border: 1px solid white;
+    width: 85%;
+    height: 80px;
+    background-color: #F7F7F7;
+}
+
+.imagecontent {
+    border: 1px solid white;
+    width: 15%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardsection {
+    width: 100%;
+    height: 500px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border: 1px solid bl;
+    border-radius: 10px;
+    opacity: 1;
+    display: flex;
+    justify-content: center;
+}
+.card {
+    border: 1px solid white;
+    height: 539px;
+    width: 550px;
+    display: flex;
+    justify-content: center;
+}
+.Employee {
+    border: 1px solid #F5F5F5;
+    height: 500px;
+    width: 600px;
+}
+.content1 {
+    width: 290px;
+    height: 40px;
+    text-align: left;
+    font: normal normal bold 20px/28px Roboto;
+    letter-spacing: 0px;
+    color: #42515F;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.content2 {
+    width: 500px;
+    height: 27px;
+    text-align: left;
+    font: normal normal normal 15px/22px Roboto;
+    letter-spacing: 0px;
+    color: #42515F;
+    display: flex;
+    justify-content: left;
+    border: 1px solid white;
+}
+.nameinput {
+    width: 400px;
+    margin-left: 55px;
+}
+.profileimage {
+    width: 500px;
+    height: 50px;
+    text-align: left;
+    font: normal normal normal 15px/22px Roboto;
+    letter-spacing: 0px;
+    color: #42515F;
+    opacity: 1;
+    border: 1px solid white;
+    display: flex;
+}
+.profileimagelable{
+    border: 1px solid white;
+    height:50px;
+    width:82px;
+    display: flex;
+    align-items: center;
+}
+.profileImagebutton{
+    border: 1px solid white;
+    height:50px;
+    width:405px;
+    display: flex;
+    align-items: center;
+}
+.image1{
+    object-fit: contain;
+    
+}
+.img1{
+    height: 30px;
+    width: 30px;
+    border-radius: 25px;
+    ;
+}
+.image2{
+    object-fit: contain;
+}
+.img2{
+    height: 30px;
+    width: 30px;
+    border-radius: 25px;
+}
+.image3{
+    object-fit: contain;
+}
+.img3{
+    height: 30px;
+    width: 30px;
+    border-radius: 25px;
+}
+.image4{
+    object-fit: contain;
+}
+.img4{
+    height: 30px;
+    width: 30px;
+    border-radius: 25px;
+}
+.radioinput2{
+    margin-left: 30px;
+}
+.radioinput3{
+    margin-left: 30px;
+}
+.radioinput4{
+    margin-left: 30px;
+}
+.Gender{
+    width: 500px;
+    height: 50px;
+    text-align: left;
+    font: normal normal normal 15px/22px Roboto;
+    letter-spacing: 0px;
+    color: #42515F;
+    opacity: 1;
+    border: 1px solid white;
+    display: flex;   
+}
+.Genderlabel{
+    border: 1px solid white;
+    height:50px;
+    width:82px;
+    display: flex;
+    align-items: center;
+}
+.Genderbutton{
+    border: 1px solid white;
+    height:50px;
+    width:414px;
+    display: flex;
+    align-items: center;   
+}
+.genderradio{
+    margin-left: 30px;
+
+}
+.Department{
+    width: 500px;
+    height: 50px;
+    text-align: left;
+    font: normal normal normal 15px/22px Roboto;
+    letter-spacing: 0px;
+    color: #42515F;
+    opacity: 1;
+    border: 1px solid white;
+    display: flex;   
+}
+.DepartmentLabel{
+    border: 1px solid white;
+    height:50px;
+    width:85px;
+    display: flex;
+    align-items: center;
+}
+.DepartmentButton{
+    border: 1px solid white;
+    height:50px;
+    width:414px;
+    display: flex;
+    align-items: center;
+}
+.deptcheckbox2{
+    margin-left: 20px; 
+}
+.deptcheckbox3{
+    margin-left: 20px;
+}
+.deptcheckbox4{
+    margin-left: 20px;
+}
+.deptcheckbox5{
+    margin-left: 20px;
+}
+.Salary{
+    width: 500px;
+    height: 50px;
+    text-align: left;
+    font: normal normal normal 15px/22px Roboto;
+    letter-spacing: 0px;
+    color: #42515F;
+    opacity: 1;
+    border: 1px solid white;
+    display: flex;     
+}
+.SalaryLabel{
+    border: 1px solid white;
+    height:50px;
+    width:85px;
+    display: flex;
+    align-items: center;   
+}
+.SalaryButton{
+    border: 1px solid white;
+    height:50px;
+    width:414px;
+    display: flex;
+    align-items: center;   
+}
+.StartDate{
+    width: 500px;
+    height: 50px;
+    text-align: left;
+    font: normal normal normal 15px/22px Roboto;
+    letter-spacing: 0px;
+    color: #42515F;
+    opacity: 1;
+    border: 1px solid white;
+    display: flex;     
+}
+.StartDateLabel{
+    border: 1px solid white;
+    height:50px;
+    width:85px;
+    display: flex;
+    align-items: center; 
+}
+.StartDateButton{
+    border: 1px solid white;
+    height:50px;
+    width:414px;
+    display: flex;
+    align-items: center;
+}
+.month{
+    margin-left: 20px;
+}
+.Year{
+    margin-left: 20px;
+}
+.Notes{
+    width: 500px;
+    height: 75px;
+    text-align: left;
+    font: normal normal normal 15px/22px Roboto;
+    letter-spacing: 0px;
+    color: #42515F;
+    opacity: 1;
+    border: 1px solid white;
+    display: flex;     
+}
+.NotesLabel{
+    border: 1px solid white;
+    height:73px;
+    width:85px;
+    display: flex;
+    align-items: center; 
+}
+.NoteTextbox{
+    border: 1px solid white;
+    height:70px;
+    width:414px;  
+}
+.noteinput{
+    height:70px;
+    width:414px;
+    font-size: 15px;
+}
+.Buttons{
+    width: 506px;
+    height: 75px;
+    text-align: left;
+    font: normal normal normal 15px/22px Roboto;
+    letter-spacing: 0px;
+    color: #42515F;
+    opacity: 1;
+    border: 1px solid white;
+    display: flex;  
+}
+.cancleButton{
+    border: 1px solid white;
+    height:73px;
+    width:180px;
+    display: flex;
+    align-items: center; 
+}
+.SaveButton{
+    border: 1px solid white;
+    height:73px;
+    width:400px;
+    display: flex;
+    align-items: center; 
+}
+.saveinput{
+margin-left: 230px;
+}
+.Resetinput{
+margin-left: 20px;
+}

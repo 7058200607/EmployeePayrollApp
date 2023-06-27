@@ -1,0 +1,14 @@
+{
+  "Data": [
+    {
+      "Name": "MAHAJAN AISHWARYA RAJENDRA",
+      "profileImage": "../assets/images2.jpg",
+      "Gender": "Female",
+      "Department": "[\"Sales\",\"Finance\"]",
+      "Salary": "200000",
+      "startDate": "2/April/2017",
+      "Notes": "vrushali",
+      "id": 1
+    }
+  ]
+}
