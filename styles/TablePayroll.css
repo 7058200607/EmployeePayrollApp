@@ -1,0 +1,109 @@
+.page {
+    border: 1px solid white;
+    width: 100%;
+    height: 620px;
+    background-color: #F7F7F7;
+}
+
+.header {
+    border: 1px solid white;
+    height: 106px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.innerheader {
+    border: 1px solid white;
+    width: 85%;
+    height: 80px;
+    background-color: #F7F7F7;
+}
+
+.imagecontent {
+    border: 1px solid white;
+    width: 15%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+th {
+    color: #F7F7F7;
+    height: 30px;
+    margin-left: 2em;
+    width: 150px;
+    text-align: left;
+    background-color: #42515F;
+
+    padding: 5px;
+}
+
+table {
+    border: 2px solid white;
+    margin-left: 96px;
+}
+
+td>img {
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    position: relative;
+    top: 5px;
+}
+
+.Thead {
+    border: 2px solid white;
+    background-color: #42515F;
+
+}
+
+.nextHeader {
+    height: 60px;
+    width: 75%;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+}
+
+.Empolyeedetailsmain {
+    height: 60px;
+    width: 40%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border:1px solid white;
+}
+
+.Adduser {
+    height: 60px;
+    width: 70%;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.addinput {
+    height: 30px;
+    width: 130px;
+    background-color: rgb(148, 231, 39);
+    color: white;
+    border: none;
+    margin-left: 20px;
+    font-size: 15px;
+}
+.searchbox{
+    margin-left: 420px;
+    margin-top: 10px;
+}
+.deleteButton{
+    margin-left: 20px;
+    border: none;
+}
+.UpdateButton{
+    margin-left: 25px;
+    border: none;
+}

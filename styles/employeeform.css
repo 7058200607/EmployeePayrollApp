@@ -42,6 +42,7 @@
     justify-content: center;
 }
 .card {
+    padding: 2em;
     border: 1px solid white;
     height: 539px;
     width: 550px;

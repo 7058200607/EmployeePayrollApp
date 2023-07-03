@@ -1,14 +1,54 @@
 {
   "Data": [
     {
-      "Name": "MAHAJAN AISHWARYA RAJENDRA",
-      "profileImage": "../assets/images2.jpg",
+      "Name": "vrushali joshi",
+      "profileImage": "../assets/images.jpg",
       "Gender": "Female",
-      "Department": "[\"Sales\",\"Finance\"]",
+      "Department": "[\"Engineer\"]",
+      "Salary": "300000",
+      "startDate": "4/May/2018",
+      "Notes": "employee Details",
+      "id": 5
+    },
+    {
+      "Name": "mrunali joshi",
+      "profileImage": "../assets/images4.jpg",
+      "Gender": "Female",
+      "Department": "[\"Engineer\"]",
+      "Salary": "300000",
+      "startDate": "2/June/2020",
+      "Notes": "Employee Details",
+      "id": 6
+    },
+    {
+      "Name": "punam joshi",
+      "profileImage": "../assets/images.jpg",
+      "Gender": "Female",
+      "Department": "[\"Finance\"]",
       "Salary": "200000",
-      "startDate": "2/April/2017",
-      "Notes": "vrushali",
-      "id": 1
+      "startDate": "3/May/2019",
+      "Notes": "Employee Details",
+      "id": 7
+    },
+    {
+      "Name": "mayuri Deokar",
+      "profileImage": "../assets/images4.jpg",
+      "Gender": "Female",
+      "Department": "[\"Others\"]",
+      "Salary": "200000",
+      "startDate": "3/April/2020",
+      "Notes": "Employee Details",
+      "id": 8
+    },
+    {
+      "Name": "vaibhav mahajan",
+      "profileImage": "../assets/images3.jpg",
+      "Gender": "Male",
+      "Department": "[\"Sales\",\"Engineer\"]",
+      "Salary": "300000",
+      "startDate": "3/May/2019",
+      "Notes": "Employee Details",
+      "id": 9
     }
   ]
 }
