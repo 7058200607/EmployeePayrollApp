@@ -1,22 +1,12 @@
 {
   "Data": [
     {
-      "Name": "vrushali joshi",
-      "profileImage": "../assets/images.jpg",
-      "Gender": "Female",
-      "Department": "[\"Engineer\"]",
-      "Salary": "300000",
-      "startDate": "4/May/2018",
-      "Notes": "employee Details",
-      "id": 5
-    },
-    {
-      "Name": "mrunali joshi",
+      "Name": "mrunali pawar",
       "profileImage": "../assets/images4.jpg",
       "Gender": "Female",
       "Department": "[\"Engineer\"]",
       "Salary": "300000",
-      "startDate": "2/June/2020",
+      "startDate": "3/oct/2022",
       "Notes": "Employee Details",
       "id": 6
     },

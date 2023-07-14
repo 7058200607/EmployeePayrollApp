@@ -19,7 +19,7 @@ $.ajax({
        <td> ${item.startDate}</td>
        <td>
          <i class="fa-solid fa-trash-can" onclick="Delete(${item.id})"></i> </button>
-       <button class="UpdateButton" type="button" onclick="Onsubmmit()"> <i class="fa-sharp fa-solid fa-pen"></i> </button>
+       <button class="UpdateButton" type="button" onclick="upadte(${item.id})"> <i class="fa-sharp fa-solid fa-pen"></i> </button>
 
        </td>
     
@@ -53,3 +53,7 @@ console.log(id,"bfhfcfdcfcgc")
     }    
  })
  }
+function upadte(id){
+    localStorage.setItem("id",id)
+    window.location.href="./update.html"
+}
